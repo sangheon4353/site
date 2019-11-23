@@ -58,7 +58,7 @@ Selenium 프로젝트는 새로운 기여자를 환영합니다. 꾸준히 중�
 % git checkout -b my-feature-branch
 ```
 
-우리는 HEAD-based development 지향하고 있어, 모든 변경사항은 master에 직접 적용됩니다.
+우리는 HEAD-based development을 지향하고 있어, 모든 변경사항은 master에 직접 적용됩니다.
 
 ### 3 단계: Make changes
 
